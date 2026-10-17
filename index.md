@@ -1,12 +1,12 @@
-# Privacy Policy for Colour Memory Chess
+# Privacy Policy for Ranglume
 
-**Effective date:** September 20, 2026
+**Effective date:✱ October 17, 2026
 
-Colour Memory Chess ("the App") is developed by Karan Bhatia.
+Ranglume ("the App") is developed by Karan Bhatia.
 
 ## Information We Collect
 
-The current version of Colour Memory Chess does not collect, transmit, or sell personal information.
+The current version of Ranglume does not collect, transmit, or sell personal information.
 
 The App does not currently require:
 
@@ -22,7 +22,9 @@ Gameplay can be used without providing personal information.
 
 ## Data Stored on Your Device
 
-The current version of the App does not intentionally store personal information on your device.
+Ranglume stores non-personal preferences (sound and music toggles, volume, haptics, reduced motion, colour assistance, and your selected level) locally on your device.
+If Android Backup or Device Transfer is enabled on your device, Android may include these settings in your Google Account backup or transfer them to another device during setup.
+Ranglume does not send or store these settings on Ranglume-operated servers.
 
 ## Third-Party Services
 
