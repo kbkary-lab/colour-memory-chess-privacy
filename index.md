@@ -1,6 +1,6 @@
 # Privacy Policy for Ranglume
 
-**Effective date:✱ October 17, 2026
+**Effective date:** October 17, 2026
 
 Ranglume ("the App") is developed by Karan Bhatia.
 
